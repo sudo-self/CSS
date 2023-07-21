@@ -10,7 +10,7 @@ main {
 }
 .text {
   outline: none;
-  background: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW0zdHIwamJkcHZ2bDIzbHUwaGQ2Z2doZDNkNmU0YzQyNXhiM2szbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378oRMuApI3a35Cg/giphy.gif);
+  background: url("https://media.giphy.com/media/XbV2mrHs6ureBPUEuJ/giphy.gif");
   background-size: contain;
   background-position: top left;
   -webkit-background-clip: text;
