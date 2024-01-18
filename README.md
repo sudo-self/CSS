@@ -1,1 +1,1 @@
-#[ CSS animation with gif](https://css.sudo-self.com)
+# [ CSS animation with gif](https://css.sudo-self.com)
